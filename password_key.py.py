@@ -1,2 +1,0 @@
-# PostGreSQL PW
-password = "HotMamaLasagna!!!"
