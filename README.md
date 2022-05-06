@@ -27,13 +27,13 @@ Code was tested using PGAdmin4.
 [![sql-question2.jpg](https://i.postimg.cc/SKpyws8b/sql-question2.jpg)](https://postimg.cc/qNjVKpj1)
 
 
-**3. List the manager of each department with the following information: **
-department number, department name, the manager's employee number, last name, first name.
+**3. List the manager of each department with the following information:
+department number, department name, the manager's employee number, last name, first name.**
 [![sql-question3.jpg](https://i.postimg.cc/bw1PHh5C/sql-question3.jpg)](https://postimg.cc/fVW1D6Dm)
 
 
-**4. List the department of each employee with the following information: **
-Employee number, last name, first name, and department name.
+**4. List the department of each employee with the following information:
+Employee number, last name, first name, and department name.**
 [![sql-question4.jpg](https://i.postimg.cc/VsSkr3zT/sql-question4.jpg)](https://postimg.cc/JtLLSYDc)
 
 
