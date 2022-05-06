@@ -20,8 +20,8 @@ Code was tested using PGAdmin4.
 ## Questions Answered:
 
 **Note:**
-**(Right-click and open each image on a new tab for clearer visibility)
-**
+**(Right-click and open each image on a new tab for clearer visibility)**
+
 **1. List the following details of each employee: employee number, last name, first name, sex, and salary.**
 [![sql-question1.jpg](https://i.postimg.cc/52DHjbCs/sql-question1.jpg)](https://postimg.cc/Wd6pHRSZ)
 
