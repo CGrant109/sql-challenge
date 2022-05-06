@@ -18,6 +18,7 @@ Data found in sql-challenge/data
 Code was tested using PGAdmin4.
 
 ## Questions Answered:
+## (Click on each image for clearer resolution)
 
 **1. List the following details of each employee: employee number, last name, first name, sex, and salary.**
 [![sql-question1.jpg](https://i.postimg.cc/52DHjbCs/sql-question1.jpg)](https://postimg.cc/Wd6pHRSZ)
